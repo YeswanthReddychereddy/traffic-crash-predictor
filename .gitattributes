@@ -1,3 +1,2 @@
 data/* filter=lfs diff=lfs merge=lfs -text
-data/traffic_crashes/Traffic_Crashes_Crashes.csv filter=lfs diff=lfs merge=lfs -text
 data/traffic_crashes/Traffic_Crashes_Crashes.csv !text !filter !merge !diff
