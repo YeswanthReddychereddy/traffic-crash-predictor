@@ -1,3 +1,6 @@
+
+
+
 [project]
 title = "Traffic Crashes Project"
 version = "0.1.0"
@@ -12,7 +15,10 @@ favicon = "images/favicon.ico"
 primaryColor = "#F89613"
 
 [data_sources]
-traffic_crashes = "data/traffic_crashes/Traffic_Crashes_Crashes.csv"
+traffic_crashes = "/Users/chsmac/my_example_project/data/traffic_crashes/Traffic_Crashes_Crashes.csv"
+
+
+
 
 [logging]
 level = "INFO"
