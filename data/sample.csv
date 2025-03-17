@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 item,quantity,value
 Item A,10,100
 Item B,5,60
@@ -9,3 +10,8 @@ Item G,4,50
 Item H,11,130
 Item I,6,70
 Item J,3,40
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3c1359a7d8f9018459d677eddc8b483740901dc3829bee2e0f91be4977556b2
+size 147
+>>>>>>> fba2eb6 (Fixed project structure and added Traffic.csv)
